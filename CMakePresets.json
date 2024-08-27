@@ -15,7 +15,8 @@
       "cacheVariables": {
         "KICAD_BUILD_QA_TESTS": "OFF",
         "KICAD_BUILD_I18N": "ON",
-        "KICAD_SCRIPTING_WXPYTHON": "ON"
+        "KICAD_SCRIPTING_WXPYTHON": "ON",
+        "CMAKE_EXPORT_COMPILE_COMMANDS": "ON"
       }
     },
     {
