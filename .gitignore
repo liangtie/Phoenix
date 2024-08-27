@@ -75,3 +75,5 @@ ubuntu-bionic-18.04-cloudimg-console.log
 /samples/doodle/dist
 samples/embedded/embedded
 samples/embedded/embedded.o
+.venv
+
