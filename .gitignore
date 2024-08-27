@@ -41,14 +41,6 @@ mydbstub.py*
 /docs/sphinx/build
 
 
-/sip/cpp/sip.signature
-/sip/cpp/*.sbf
-/sip/cpp/*.h
-/sip/cpp/*.cpp
-/sip/cpp-*
-/sip/gen/*.sip
-/sip/siplib
-
 /wx/*.py
 /wx/*.pyc
 /wx/*.pi
